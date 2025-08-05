@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+blendshapes/
+face_emo_datasets/
+local_*/
+stage_1_results/
+models/
+faces.pdf
+angles_*/
